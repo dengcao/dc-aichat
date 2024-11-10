@@ -36,15 +36,15 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 演示站现在可以免费使用智谱AI、讯飞星火、书生浦语大模型、Kimi.ai（Moonshot AI）、豆包AI等对话了。全网最易部署，响应速度最快的AIGC环境。PHP版调用各种模型接口进行问答和对话，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，一切全免费。
 
-![输入图片说明](demo/main.png)
+![输入图片说明](demo/main.png?raw=true)
 
-![输入图片说明](demo/demo1.png)
+![输入图片说明](demo/demo1.png?raw=true)
 
-![输入图片说明](demo/demo2.png)
+![输入图片说明](demo/demo2.png?raw=true)
 
-![输入图片说明](demo/demo3.png)
+![输入图片说明](demo/demo3.png?raw=true)
 
-![输入图片说明](demo/demo4.png)
+![输入图片说明](demo/demo4.png?raw=true)
 
 
 # 更新说明
