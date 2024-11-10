@@ -63,7 +63,7 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 dc-aichat使用了以下开源代码：
 
-dirk1983/chatgpt、layer、jquery等。
+dirk1983/chatgpt、Jiashi1998/chatglm.php、layer、jquery等。
 
 特别致谢！
 
