@@ -1,5 +1,7 @@
 # dc-aichat 1.0.0
 
+一款支持ChatGPT+智谱AI+讯飞星火+书生浦语大模型+Kimi.ai+MoonshotAI+豆包AI等大模型的AIGC源码。全网最易部署，响应速度最快的AIGC环境。PHP版调用各种模型接口进行问答和对话，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，一切全免费。演示站现在可以免费使用智谱AI、讯飞星火、书生浦语大模型、Kimi.ai（Moonshot AI）、豆包AI等对话了。
+
 **写在最前：**
 
 ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全可以作为生产力工具应用在很多领域。可以说ChatGPT是最近几年又一个的巨大风口，目前大量投资机构和政府部门都在鼓励和支持相关行业的发展。近几年，国内大模型雨后春笋版蓬勃发展，出现了很多优秀的大模型。这个源码Demo就是整合了国内比较流行的几个大模型。
@@ -34,15 +36,15 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 演示站现在可以免费使用智谱AI、讯飞星火、书生浦语大模型、Kimi.ai（Moonshot AI）、豆包AI等对话了。全网最易部署，响应速度最快的AIGC环境。PHP版调用各种模型接口进行问答和对话，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，一切全免费。
 
-<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/main.png?raw=true" width="70%" alt="main.png">
+![输入图片说明](demo/main.png)
 
-<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo1.png?raw=true" width="70%" alt="demo1.png">
+![输入图片说明](demo/demo1.png)
 
-<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo2.png?raw=true" width="70%" alt="demo2.png">
+![输入图片说明](demo/demo2.png)
 
-<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo3.png?raw=true" width="70%" alt="demo3.png">
+![输入图片说明](demo/demo3.png)
 
-<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo4.png?raw=true" width="70%" alt="demo4.png">
+![输入图片说明](demo/demo4.png)
 
 
 # 更新说明
