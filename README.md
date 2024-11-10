@@ -125,4 +125,57 @@ GitHub：https://github.com/dengcao/dc-aichat
 
 知识查询：如果您需要查找特定的资料或数据，我可以迅速为您提供相关信息。
 
+多平台支持
+通过统一的接口轻松连接超过20个领先的 LLM 平台：
+
+6. 目前国内可用的AI大模型都有些什么？
+
+推荐一些可用的AI大模型（整理截止时间2024/11/10）：
+
+OpenAI： GPT-4/GPT-3.5（付费，聊天，嵌入，视觉，函数调用）
+
+Gemini： Gemini-1.5/Gemini-1.0（免费，付费，聊天，嵌入，视觉，函数调用）
+
+Claude： Claude-3.5/Claude-3（付费，聊天，视觉，函数调用）
+
+Ollama：（免费，本地，聊天，嵌入，视觉，函数调用）
+
+Groq： Llama-3.1/Mixtral/Gemma2（免费，聊天，函数调用）
+
+Azure-OpenAI： GPT-4/GPT-3.5（付费，聊天，嵌入，视觉，函数调用）
+
+VertexAI： Gemini/Claude/Mistral（付费，聊天，嵌入，视觉，函数调用）
+
+Bedrock： Llama3.1/Claude3.5/Mistral/Command-R+（付费，聊天，嵌入，函数调用）
+
+Mistral：（付费，聊天，嵌入，函数调用）
+
+Cohere： Command-R/Command-R+（付费，聊天，嵌入，重新排序，函数调用）
+
+Perplexity： Llama-3/Mixtral（付费，聊天，在线）
+
+Cloudflare：（免费，聊天，嵌入）
+
+OpenRouter：（付费，聊天，函数调用）
+
+Replicate：（付费，聊天）
+
+Ernie：（付费，聊天，嵌入，重新排序，函数调用）
+
+Qianwen： Qwen （付费，聊天，嵌入，视觉，函数调用）
+
+Moonshot：（付费，聊天，函数调用）
+
+Deepseek：（付费，聊天，函数调用）
+
+ZhipuAI： GLM-4（付费，聊天，嵌入，视觉，函数调用）
+
+LingYiWanWu： Yi-Large（付费，聊天，视觉，函数调用）
+
+Jina：（免费，付费，嵌入，重新排序）
+
+VoyageAI：（付费，嵌入，重新排序）
+
+OpenAI 兼容平台
+
 ------
