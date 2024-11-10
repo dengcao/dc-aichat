@@ -1,4 +1,4 @@
-# dc-aichat
+# dc-aichat 1.0.0
 
 **写在最前：**
 
@@ -34,9 +34,16 @@ ChatGPT的横空出世真的改变了世界，用过的人都知道ChatGPT完全
 
 演示站现在可以免费使用智谱AI、讯飞星火、书生浦语大模型、Kimi.ai（Moonshot AI）、豆包AI等对话了。全网最易部署，响应速度最快的AIGC环境。PHP版调用各种模型接口进行问答和对话，采用Stream流模式通信，一边生成一边输出。前端采用EventSource，支持Markdown格式解析，支持公式显示，代码有着色处理。页面UI简洁，支持上下文连续会话。源码只有几个文件，没用任何框架，支持所有PHP版本，全部开源，极易二开，一切全免费。
 
-![t1](https://user-images.githubusercontent.com/5563148/232330560-1b6a45f3-fcc1-4d3e-a2f7-b1c9878fe9cd.jpg)
-![t2](https://user-images.githubusercontent.com/5563148/232330566-c6ea7fb3-474f-45e4-adda-37f3db27b92a.jpg)
-![t3](https://github.com/dirk1983/chatgpt/assets/5563148/732b5bed-7e9c-4c07-9865-9b97957781a7)
+<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/main.png?raw=true" width="70%" alt="main.png">
+
+<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo1.png?raw=true" width="70%" alt="demo1.png">
+
+<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo2.png?raw=true" width="70%" alt="demo2.png">
+
+<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo3.png?raw=true" width="70%" alt="demo3.png">
+
+<img src="https://github.com/dengcao/dc-aichat/blob/main/demo/demo4.png?raw=true" width="70%" alt="demo4.png">
+
 
 # 更新说明
 
@@ -91,5 +98,17 @@ GitHub：https://github.com/dengcao/dc-aichat
 4. 如果想实现像Demo站一样的功能，怎么修改代码？
 
 参考前面的：首次使用配置说明。
+
+5. 目前国内AI大模型可以做些什么？
+
+目前国内大都为认知智能模型，可以帮助您完成以下任务（以下为AI回答内容）：
+语言理解：我可以准确理解您提出的各种问题或指令，并做出相应的回应。
+问答服务：我可以回答各种问题，包括常识性问题、学术性问题、技术性问题等等。
+提供建议：如果您需要一些建议或者意见，我可以为您提供参考和建议。
+翻译服务：我可以帮您翻译多种语言之间的文本内容，包括中文、英文、法文、德文、日文等等。
+写作辅助：如果您需要写论文、报告或者其他类型的文档，我可以为您提供写作方面的帮助和指导。
+娱乐休闲：如果您感到无聊或者需要一些娱乐休闲，我可以与您聊天、玩游戏、听音乐等等。
+情感交流：我还能在一定程度上模拟人类的情感反应，与您进行更自然的对话互动。
+知识查询：如果您需要查找特定的资料或数据，我可以迅速为您提供相关信息。
 
 ------
